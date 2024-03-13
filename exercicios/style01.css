@@ -1,0 +1,42 @@
+.corpo{
+    background-color: rgb(255, 255, 255);
+}
+.texto h1,h2{
+    font-family: 'Amita';
+    font-weight: 400;
+    font-size: 40px;
+}
+.cabecalho{
+  padding: 25px;
+  font-family: 'Amita';
+  font-weight: 400;
+  font-size: 40px;
+  color: #ffffff;
+  background-color: #000000;
+}
+.lista{
+    display: block;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card{
+    align-items: center;
+    border: 2px double#0a0e42;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    font-family: 'Segoe UI';
+}
+.lista img{
+    width: 100px;
+    height: 100px;
+}
+p{
+    font-family: 'Amita';
+    font-weight: 100;
+    font-size: 20px;
+    border: 2px double#050000;
+    border-radius: 20px;
+    text-align: center;
+}
